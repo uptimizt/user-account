@@ -1,5 +1,5 @@
 # user-account
-UserAccount - as MyAccount by Woo, but only for WordPress
+UserAccount - as MyAccount by WooCommerce, but only for WordPress
 
 ## todo
 - add scss and css
