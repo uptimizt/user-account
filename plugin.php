@@ -2,7 +2,7 @@
 /**
  * Plugin Name: UserAccount
  * Plugin URI: https://github.com/uptimizt/user-account
- * Description: personal account on the site by WordPress
+ * Description: personal account on the site by WordPress. shortcode [user-account]
  * Author: WPCraft
  * Author URI: https://wpcraft.ru/
  * Developer: WPCraft
